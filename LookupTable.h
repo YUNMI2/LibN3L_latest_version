@@ -70,7 +70,7 @@ public:
     _bFineTune = true;
     
   //  iter = 0;
-    _max_update = 0;
+    //_max_update = 0;
     _last_update.resize(_nVSize);
     _last_update = 0;
   }
